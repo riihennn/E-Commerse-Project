@@ -1,0 +1,450 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "WellCore Performance Whey",
+      "subtitle": "3.85 lb Rich Chocolate",
+      "currentPrice": "4679",
+      "originalPrice": "5599",
+      "discount": "16% off",
+      "badge": "Best Seller",
+      "image": "https://img8.hkrtcdn.com/39078/prd_3907787-MuscleBlaze-Biozyme-Performance-Whey-4.4-lb-Rich-Chocolate_o.jpg",
+      "item": "whey protein",
+      "stock": 17
+    },
+    {
+      "id": "2",
+      "title": "MuscleBlaze Whey PR",
+      "subtitle": "4.4 lb Chocolate Fudge",
+      "currentPrice": "5609",
+      "originalPrice": "6999",
+      "discount": "19% off",
+      "badge": "Trusted",
+      "image": "https://img8.hkrtcdn.com/34084/prd_3408347-MuscleBlaze-Biozyme-Whey-PR-4.4-lb-Chocolate-Fudge_c_m.jpg",
+      "item": "whey protein"
+    },
+    {
+      "id": "3",
+      "title": "GNC Gold 100% Whey",
+      "subtitle": "4.4 lb Double Rich Chocolate",
+      "currentPrice": "6319",
+      "originalPrice": "8099",
+      "discount": "21% off",
+      "badge": "Best Seller",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61a-LrnRvwL._AC_UL210_SR210,210_.jpg",
+      "item": "whey protein"
+    },
+    {
+      "id": "4",
+      "title": "MuscleTech NitroTech Whey Gold",
+      "subtitle": "2 lb Cookies & Cream",
+      "currentPrice": "3299",
+      "originalPrice": "4499",
+      "discount": "27% off",
+      "badge": "Best Seller",
+      "image": "https://international.muscletech.com/wp-content/uploads/2022/06/muscletech-int-nitro-tech-100-whey-gold.png",
+      "item": "whey protein"
+    },
+    {
+      "id": "5",
+      "title": "ON Gold Standard Whey",
+      "subtitle": "5 lb Vanilla Ice Cream",
+      "currentPrice": "6999",
+      "originalPrice": "8999",
+      "discount": "22% off",
+      "badge": "Best Seller",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdQKBOBFkzf422brd4FVL97RHYR8KBbjOj7Q&s",
+      "item": "whey protein"
+    },
+    {
+      "id": "6",
+      "title": "GNC 100% Whey + Nitro Surge",
+      "subtitle": "4.4 lb Low Carb Ice Cream Chocolate",
+      "currentPrice": "7299",
+      "originalPrice": "9499",
+      "discount": "23% off",
+      "badge": "Best On Demand",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQJdo1s7yGGRy2koDJHGbvuwghpzYN9lG3IsX-P5Rao7XfI9s4U6AcS9xJHl_N5fHJcXJW-uxnWYLYx4QwckY87I3l4O6qFwAW6p3lNChwiRLRE1gZgWqvz4d6tOvF0hiToaM36aeI&usqp=CAc",
+      "item": "whey protein"
+    },
+    {
+      "id": "7",
+      "title": "MuscleBlaze Iso-Zero",
+      "subtitle": "2 lb Kesar Thandai",
+      "currentPrice": "3899",
+      "originalPrice": "5199",
+      "discount": "25% off",
+      "badge": "Best On Demand",
+      "image": "https://img6.hkrtcdn.com/41474/pck_4147335_o.jpg",
+      "item": "whey protein"
+    },
+    {
+      "id": "8",
+      "title": "GNC Pro Performance Power Protein",
+      "subtitle": "5 lb Chocolate",
+      "currentPrice": "6199",
+      "originalPrice": "7999",
+      "discount": "23% off",
+      "badge": "Trusted",
+      "image": "https://www.guardian.in/cdn/shop/files/4LBS_FRONT_35baac19-5b35-41b2-9304-e6493e246334.jpg?v=1756454230",
+      "item": "whey protein"
+    },
+    {
+      "id": "9",
+      "title": "MuscleTech NitroTech Ultimate Muscle Building Whey Protein",
+      "subtitle": "5 lb Gourmet Chocolate",
+      "currentPrice": "8999",
+      "originalPrice": "10999",
+      "discount": "18% off",
+      "badge": "Premium",
+      "image": "https://international.muscletech.com/wp-content/uploads/2025/10/muscletech-int-nitro-tech-whey-protein.png",
+      "item": "whey protein"
+    },
+    {
+      "id": "10",
+      "title": "ON Gold Standard 100% Whey Protein",
+      "subtitle": "2.2 lb Chocolate Brownie",
+      "currentPrice": "3299",
+      "originalPrice": "4099",
+      "discount": "20% off",
+      "badge": "Best Seller",
+      "image": "https://m.media-amazon.com/images/I/61Cg+W3Ph7L._AC_UF1000,1000_QL80_.jpg",
+      "item": "whey protein"
+    },
+    {
+      "id": "11",
+      "title": "MuscleBlaze Creatine Monohydrate",
+      "subtitle": "300 g",
+      "currentPrice": "799",
+      "originalPrice": "999",
+      "discount": "20% off",
+      "badge": "Verified",
+      "image": "https://img2.hkrtcdn.com/35711/prd_3571061-MuscleBlaze-Creatine-Monohydrate-CreAMP-0.88-lb-Unflavoured_c_m.jpg",
+      "item": "creatine"
+    },
+    {
+      "id": "12",
+      "title": "ON Creatine",
+      "subtitle": "300 g",
+      "currentPrice": "1199",
+      "originalPrice": "1499",
+      "discount": "20% off",
+      "badge": "Verified",
+      "image": "https://images-cdn.ubuy.co.in/681ac7e795e292e4d4080787-optimum-nutrition-micronized-creatine.jpg",
+      "item": "creatine"
+    },
+    {
+      "id": "13",
+      "title": "WellCore Fruit Fution Creatine Monohydrate",
+      "subtitle": "500 g",
+      "currentPrice": "1499",
+      "originalPrice": "1999",
+      "discount": "25% off",
+      "badge": "Trusted",
+      "image": "https://m.media-amazon.com/images/I/71wLbVnsgSL._AC_UF1000,1000_QL80_.jpg",
+      "item": "creatine"
+    },
+    {
+      "id": "14",
+      "title": "MuscleBlaze Creatine Advanced",
+      "subtitle": "250 g",
+      "currentPrice": "899",
+      "originalPrice": "1099",
+      "discount": "18% off",
+      "badge": "Best On Demand",
+      "image": "https://img4.hkrtcdn.com/37800/prd_3779953-MuscleBlaze-CreaPRO-Creatine-with-Creapure-Powder-from-Germany-0.55-lb-Unflavoured_c_m.jpg",
+      "item": "creatine"
+    },
+    {
+      "id": "15",
+      "title": "ON Creatine Powder",
+      "subtitle": "500 g",
+      "currentPrice": "1399",
+      "originalPrice": "1699",
+      "discount": "18% off",
+      "badge": "Verified",
+      "image": "https://images-cdn.ubuy.co.in/681ac7e795e292e4d4080787-optimum-nutrition-micronized-creatine.jpg",
+      "item": "creatine"
+    },
+    {
+      "id": "16",
+      "title": "MuscleTech Creatine Monohydrate",
+      "subtitle": "300 g",
+      "currentPrice": "899",
+      "originalPrice": "1099",
+      "discount": "18% off",
+      "badge": "Trusted",
+      "image": "https://international.muscletech.com/wp-content/uploads/2022/06/muscletech-int-platinum-100-creatine-monohydrate.png",
+      "item": "creatine"
+    },
+    {
+      "id": "17",
+      "title": "GNC Creatine Powder",
+      "subtitle": "500 g",
+      "currentPrice": "1499",
+      "originalPrice": "1799",
+      "discount": "20% off",
+      "badge": "Verified",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMvCSEzbxpyOUNHKtEakoZdt6wcXgCCiXGw&s",
+      "item": "creatine"
+    },
+    {
+      "id": "18",
+      "title": "WellCore Tango Creatine Monohydrate",
+      "subtitle": "120 capsules",
+      "currentPrice": "1199",
+      "originalPrice": "1499",
+      "discount": "20% off",
+      "badge": "Verified",
+      "image": "https://m.media-amazon.com/images/I/61WPimSVSEL._AC_UF1000,1000_QL80_.jpg",
+      "item": "creatine"
+    },
+    {
+      "id": "19",
+      "title": "MuscleBlaze Creatine Micronized",
+      "subtitle": "250 g",
+      "currentPrice": "899",
+      "originalPrice": "1099",
+      "discount": "18% off",
+      "badge": "Best On Demand",
+      "image": "https://img8.hkrtcdn.com/39964/prd_3996397-MuscleBlaze-Creatine-Monohydrate-CreAMP-0.55-lb-Unflavoured_c_m.jpg",
+      "item": "creatine"
+    },
+    {
+      "id": "20",
+      "title": "WellCore Creatine Monohydrate",
+      "subtitle": "300 g",
+      "currentPrice": "799",
+      "originalPrice": "999",
+      "discount": "20% off",
+      "badge": "Best On Demand",
+      "image": "https://m.media-amazon.com/images/I/51B9614MvZL.jpg",
+      "item": "creatine"
+    },
+    {
+      "id": "21",
+      "title": "MuscleBlaze Pre Workout WrathX",
+      "subtitle": "60 servings Fruit Punch",
+      "currentPrice": "3299",
+      "originalPrice": "4199",
+      "discount": "21% off",
+      "badge": "Trusted",
+      "image": "https://img10.hkrtcdn.com/40669/prd_4066899-MuscleBlaze-Pre-Workout-WrathX-1.12-lb-Fruit-Fury_c_m.jpg",
+      "item": "preworkout"
+    },
+    {
+      "id": "22",
+      "title": "MuscleBlaze PRE Workout 200 Xtreme",
+      "subtitle": "25 servings Orange",
+      "currentPrice": "1499",
+      "originalPrice": "1899",
+      "discount": "21% off",
+      "badge": "Trusted",
+      "image": "https://img4.hkrtcdn.com/37799/prd_3779883-MuscleBlaze-PRE-Workout-200-Xtreme-0.22-lb-Fruit-Punch_c_m.jpg",
+      "item": "preworkout"
+    },
+    {
+      "id": "23",
+      "title": "MuscleBlaze Pre Workout WrathX",
+      "subtitle": "30 servings Watermelon",
+      "currentPrice": "2899",
+      "originalPrice": "3599",
+      "discount": "19% off",
+      "badge": "Best On Demand",
+      "image": "https://img2.hkrtcdn.com/40670/prd_4066901-MuscleBlaze-Pre-Workout-WrathX-0.75-lb-Cola-Frost_c_m.jpg",
+      "item": "preworkout"
+    },
+    {
+      "id": "24",
+      "title": "Wellcore Dynamite Pre-Workout",
+      "subtitle": "Valencia Orange - (210g, 15 Servings)",
+      "currentPrice": "4299",
+      "originalPrice": "5499",
+      "discount": "22% off",
+      "badge": "Verified",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9D0Mpc---ILgUjJOIV0h92KVuyfB5v_wltA&s",
+      "item": "preworkout"
+    },
+    {
+      "id": "25",
+      "title": "Wellcore Dynamite Pre-Workout EXTREME ",
+      "subtitle": "(270g, 15 Servings) | Valencia Orange",
+      "currentPrice": "4999",
+      "originalPrice": "6199",
+      "discount": "19% off",
+      "badge": "Premium",
+      "image": "https://wellversed.in/cdn/shop/files/GA_EX_15Ser_1_AZ_DY_WL_700x700.png?v=1758694646",
+      "item": "preworkout"
+    },
+    {
+      "id": "26",
+      "title": "GNC Pro Performance Pre-Workout",
+      "subtitle": "30 servings",
+      "currentPrice": "4199",
+      "originalPrice": "5499",
+      "discount": "24% off",
+      "badge": "Premium",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQxOFkGDJIRPsWa_1oR7awK-8fGExAn4hK7Q&s",
+      "item": "preworkout"
+    },
+    {
+      "id": "27",
+      "title": "MuscleBlaze Pre Workout WrathX",
+      "subtitle": "60 servings Fruit Punch",
+      "currentPrice": "3299",
+      "originalPrice": "4199",
+      "discount": "21% off",
+      "badge": "Trusted",
+      "image": "https://img10.hkrtcdn.com/40669/prd_4066899-MuscleBlaze-Pre-Workout-WrathX-1.12-lb-Fruit-Fury_c_m.jpg",
+      "item": "preworkout"
+    },
+    {
+      "id": "28",
+      "title": "MuscleBlaze PRE Workout 200 Xtreme",
+      "subtitle": "25 servings Orange",
+      "currentPrice": "2999",
+      "originalPrice": "1899",
+      "discount": "21% off",
+      "badge": "Trusted",
+      "image": "https://img4.hkrtcdn.com/37799/prd_3779883-MuscleBlaze-PRE-Workout-200-Xtreme-0.22-lb-Fruit-Punch_c_m.jpg",
+      "item": "preworkout"
+    },
+    {
+      "id": "29",
+      "title": "MuscleBlaze Pre Workout WrathX",
+      "subtitle": "30 servings Watermelon",
+      "currentPrice": "3599",
+      "originalPrice": "4999",
+      "discount": "19% off",
+      "badge": "Best On Demand",
+      "image": "https://img2.hkrtcdn.com/40670/prd_4066901-MuscleBlaze-Pre-Workout-WrathX-0.75-lb-Cola-Frost_c_m.jpg",
+      "item": "preworkout"
+    },
+    {
+      "id": "30",
+      "title": "Wellcore Dynamite Pre-Workout",
+      "subtitle": "Valencia Orange - (210g, 15 Servings)",
+      "currentPrice": "2399",
+      "originalPrice": "5899",
+      "discount": "22% off",
+      "badge": "Verified",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9D0Mpc---ILgUjJOIV0h92KVuyfB5v_wltA&s",
+      "item": "preworkout"
+    }
+  ],
+  "users": [
+    {
+      "id": "01",
+      "name": "Rihen",
+      "email": "rihenadmin@gmail.com",
+      "password": "Rihen!12345",
+      "isAdmin": true,
+      "wishlist": [
+        {
+          "id": "2",
+          "title": "MuscleBlaze Whey PR",
+          "subtitle": "4.4 lb Chocolate Fudge",
+          "currentPrice": "5609",
+          "originalPrice": "6999",
+          "discount": "19% off",
+          "badge": "Trusted",
+          "image": "https://img8.hkrtcdn.com/34084/prd_3408347-MuscleBlaze-Biozyme-Whey-PR-4.4-lb-Chocolate-Fudge_c_m.jpg",
+          "item": "whey protein"
+        },
+        {
+          "id": "3",
+          "title": "GNC Gold 100% Whey",
+          "subtitle": "4.4 lb Double Rich Chocolate",
+          "currentPrice": "6319",
+          "originalPrice": "8099",
+          "discount": "21% off",
+          "badge": "Best Seller",
+          "image": "https://images-eu.ssl-images-amazon.com/images/I/61a-LrnRvwL._AC_UL210_SR210,210_.jpg",
+          "item": "whey protein"
+        }
+      ],
+      "cart": []
+    },
+    {
+      "id": "3bfd",
+      "name": "rihenwaltx",
+      "email": "rihenww@gmail.com",
+      "password": "Rihen!123",
+      "isBlock": false,
+      "wishlist": [
+        {
+          "id": "1",
+          "title": "WellCore Performance Whey",
+          "subtitle": "3.85 lb Rich Chocolate",
+          "currentPrice": "4679",
+          "originalPrice": "5599",
+          "discount": "16% off",
+          "badge": "Best Seller",
+          "image": "https://img8.hkrtcdn.com/39078/prd_3907787-MuscleBlaze-Biozyme-Performance-Whey-4.4-lb-Rich-Chocolate_o.jpg",
+          "item": "whey protein",
+          "stock": 17
+        }
+      ],
+      "cart": [
+        {
+          "id": "4",
+          "title": "MuscleTech NitroTech Whey Gold",
+          "subtitle": "2 lb Cookies & Cream",
+          "currentPrice": "3299",
+          "originalPrice": "4499",
+          "discount": "27% off",
+          "badge": "Best Seller",
+          "image": "https://international.muscletech.com/wp-content/uploads/2022/06/muscletech-int-nitro-tech-100-whey-gold.png",
+          "item": "whey protein",
+          "quantity": 1
+        }
+      ],
+      "orders": [
+        {
+          "orderId": "NL7SUBQ1G",
+          "items": [
+            {
+              "id": "12",
+              "title": "ON Creatine",
+              "subtitle": "300 g",
+              "currentPrice": "1199",
+              "originalPrice": "1499",
+              "discount": "20% off",
+              "badge": "Verified",
+              "image": "https://images-cdn.ubuy.co.in/681ac7e795e292e4d4080787-optimum-nutrition-micronized-creatine.jpg",
+              "item": "creatine",
+              "quantity": 1
+            }
+          ],
+          "shippingAddress": {
+            "fullName": "rihenwaltx",
+            "phone": "8075608994",
+            "addressLine1": "kinfra IT park ",
+            "addressLine2": "NH 66",
+            "landmark": "Calicut university",
+            "city": "kozhikode",
+            "state": "kerala",
+            "pincode": "673305"
+          },
+          "paymentMethod": "Cash on Delivery",
+          "subtotal": 1199,
+          "shipping": 0,
+          "tax": 215.82,
+          "total": 1414.82,
+          "orderDate": "2025-10-23T14:33:04.578Z",
+          "status": "Shipped"
+        }
+      ]
+    },
+    {
+      "id": "f865",
+      "name": "aleena",
+      "email": "aleena@gmail.com",
+      "password": "Aleena!123",
+      "isBlock": false,
+      "wishlist": [],
+      "cart": [],
+      "orders": []
+    }
+  ]
+}
